@@ -10,14 +10,14 @@
     ### Part One
     Done all this in the "HandsOnApp" project
 
-    - [x] Swift basics 
-    - [x] AppBundles
-    - [x] FileManager
-    - [x] TypeCasting
-    - [x] ViewControllers
-    - [x] StoryBoards
-    - [x] UiImage
-    - [x] TableViews and ImageViews
+    -[x] Swift basics 
+    -[x] AppBundles
+    -[x] FileManager
+    -[x] TypeCasting
+    -[x] ViewControllers
+    -[x] StoryBoards
+    -[x] UiImage
+    -[x] TableViews and ImageViews
 
     ### Part Two
 
